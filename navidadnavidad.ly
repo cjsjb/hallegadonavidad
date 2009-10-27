@@ -4,9 +4,9 @@
 #(ly:set-option 'point-and-click #f)
 \header {
     composer = "Romeo Valdés"
-    copyright = "Copyright (c) 1972 Romeo Valdés"
+    copyright = "Copyright © 1972 Romeo Valdés"
     title = "Navidad, Navidad"
-    tagline = ""
+    tagline = "Coro Juvenil San Juan Bosco"
 }
 #(set-global-staff-size 20)
 #(set-default-paper-size "letter")
