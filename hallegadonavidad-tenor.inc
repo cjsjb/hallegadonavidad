@@ -56,7 +56,28 @@
 		c' 4 e'  |
 		b 4 d'  |
 		g 2  |
-		R2*22  |
+		R2*2  |
+%% 45
+		r4 cs' 8 cs'  |
+		e' 8 d' d' cs'  |
+		d' 4 r  |
+		R2  |
+		r4 b 8 b  |
+%% 50
+		d' 8 c' c' b  |
+		c' 4 r  |
+		R2  |
+		r4 cs' 8 cs'  |
+		e' 8 d' d' e'  |
+%% 55
+		d' 2  |
+		r4 g 8 g  |
+		c' 4 e'  |
+		b 2  |
+		d' 2  |
+%% 60
+		g 2  |
+		R2*4  |
 %% 65
 		r4 c' 8 e'  |
 		\key f \major
@@ -128,7 +149,27 @@
 		a 2  |
 		R2*2  |
 		\key c \major
-		R2*20
+		R2  |
+		r4 cs' 8 cs'  |
+		e' 8 d' d' cs'  |
+		d' 4 r  |
+%% 130
+		R2  |
+		r4 b 8 b  |
+		d' 8 c' c' b  |
+		c' 4 r  |
+		R2  |
+%% 135
+		r4 cs' 8 cs'  |
+		e' 8 d' d' e'  |
+		d' 2  |
+		r4 g 8 g  |
+		c' 4 e'  |
+%% 140
+		b 2  |
+		d' 2  |
+		g 2  |
+		R2*3
 		\bar "|."
 	}
 
@@ -154,14 +195,14 @@
 		un e -- ter -- no res -- plan -- dor,
 		de fe -- li -- ci -- dad "y a" -- mor.
 
-%		% estrofa 3
-%		% ¡Na -- vi -- dad!, ¡Na -- vi -- dad!,
-%		u -- na voz "de e" -- ter -- ni -- dad,
-%		% ¡Na -- vi -- dad!, ¡Na -- vi -- dad!,
-%		u -- na voz de sal -- va -- ción,
-%		% ¡Na -- vi -- dad!, ¡Na -- vi -- dad!,
-%		"la es" -- pe -- ran -- "za en" "la o" -- ra -- ción
-%		"y el" mi -- la -- gro del a -- mor.
+		% estrofa 3
+		% ¡Na -- vi -- dad!, ¡Na -- vi -- dad!,
+		U -- na voz "de e" -- ter -- ni -- dad,
+		% ¡Na -- vi -- dad!, ¡Na -- vi -- dad!,
+		u -- na voz de sal -- va -- ción,
+		% ¡Na -- vi -- dad!, ¡Na -- vi -- dad!,
+		"la es" -- pe -- ran -- "za en" "la o" -- ra -- ción
+		"y el" mi -- la -- gro del a -- mor.
 
 		% parte b
 		Na -- vi -- dad, la paz de "la hu" -- ma -- ni -- dad,
@@ -185,11 +226,11 @@
 		ha lle -- ga -- do Na -- vi -- dad.
 
 		% estrofa 2
-		¡Na -- vi -- dad!, % Na -- vi -- dad,
-		na -- ci -- mien -- to de Je -- sús,
-		¡Na -- vi -- dad!, % Na -- vi -- dad,
+		% ¡Na -- vi -- dad!, ¡Na -- vi -- dad!,
+		Na -- ci -- mien -- to de Je -- sús,
+		% ¡Na -- vi -- dad!, ¡Na -- vi -- dad!,
 		blan -- "ca es" -- te -- la de quie -- tud,
-		¡Na -- vi -- dad!, % Na -- vi -- dad,
+		% ¡Na -- vi -- dad!, ¡Na -- vi -- dad!,
 		un e -- ter -- no res -- plan -- dor,
 		de fe -- li -- ci -- dad "y a" -- mor.
 	}
