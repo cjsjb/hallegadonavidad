@@ -5,7 +5,7 @@
 \header {
     composer = "Romeo Valdés"
     copyright = "Copyright © 1972 Romeo Valdés"
-    title = "Navidad, Navidad"
+    title = "Ha llegado Navidad"
     tagline = "Coro Juvenil San Juan Bosco"
 }
 #(set-global-staff-size 20)
@@ -21,7 +21,7 @@ global = {
     \skip 2*17  %% 1-18
 }
 globalTempo = {
-    \tempo 4 = 70  \skip 2*17
+    \tempo 4 = 74  \skip 2*17
 }
 \score {
 %    \new StaffGroup
