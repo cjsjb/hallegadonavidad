@@ -31,9 +31,12 @@ globalTempo = {
         \override Score.NoteColumn #'force-hshift = #1.0
 
 	\include "hallegadonavidad-acordes.inc"
-	\include "hallegadonavidad-soprano.inc"
-%	\include "navidadnavidad-cuerdas.inc"
-%	\include "navidadnavidad-cello.inc"
+	\new StaffGroup <<
+		\include "hallegadonavidad-soprano.inc"
+		\include "hallegadonavidad-mezzo.inc"
+		\include "hallegadonavidad-tenor.inc"
+	>>
+	\include "hallegadonavidad-violin.inc"
 
     >> % notes
 
