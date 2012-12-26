@@ -3,7 +3,7 @@
 		\set chordChanges = ##t
 
 		% intro
-		r2
+		s2
 		c2 d2:m/c e2:m/c d2:m/c
 		c2 d2:m/c e2:m/c d2:m/c
 
