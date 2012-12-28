@@ -181,7 +181,7 @@
 		% ¡Na -- vi -- dad!, ¡Na -- vi -- dad!,
 		U -- "na es" -- tre -- lla bri -- lla -- rá
 		% ¡Na -- vi -- dad!, ¡Na -- vi -- dad!,
-		al na -- cer el ni -- ño Dios,
+		al na -- cer el ni -- ño Dios.
 		% ¡Na -- vi -- dad!, ¡Na -- vi -- dad!,
 		Es -- ta fe -- cha tan fe -- liz,
 		es -- ta -- re -- mos con el rey.
@@ -214,7 +214,7 @@
 		% ¡Na -- vi -- dad!, ¡Na -- vi -- dad!,
 		U -- "na es" -- tre -- lla bri -- lla -- rá
 		% ¡Na -- vi -- dad!, ¡Na -- vi -- dad!,
-		al na -- cer el ni -- ño Dios,
+		al na -- cer el ni -- ño Dios.
 		% ¡Na -- vi -- dad!, ¡Na -- vi -- dad!,
 		Es -- ta fe -- cha tan fe -- liz,
 		es -- ta -- re -- mos con el rey.
