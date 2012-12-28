@@ -11,168 +11,168 @@
 		\override MultiMeasureRest #'expand-limit = 1
 
 		\time 2/4
-		\clef "treble"
+		\clef "treble_8"
 		\key c \major
 
 		R2*4  |
 %% 5
-		r4 e'' 8 f''  |
-		g'' 2  |
+		r4 e' 8 f'  |
+		g' 2  |
 		R2*3  |
 %% 10
-		r4 e'' 8 d''  |
-		cs'' 4 cs'' 8 cs''  |
-		e'' 8 d'' d'' cs''  |
-		d'' 4 r  |
-		r4 d'' 8 c''  |
+		r4 e' 8 d'  |
+		cs' 4 cs' 8 cs'  |
+		e' 8 d' d' cs'  |
+		d' 4 r  |
+		r4 d' 8 c'  |
 %% 15
-		b' 4 b' 8 b'  |
-		d'' 8 c'' c'' b'  |
-		c'' 4 r  |
-		r4 e'' 8 d''  |
-		cs'' 4 cs'' 8 cs''  |
+		b 4 b 8 b  |
+		d' 8 c' c' b  |
+		c' 4 r  |
+		r4 e' 8 d'  |
+		cs' 4 cs' 8 cs'  |
 %% 20
-		e'' 8 d'' d'' e''  |
-		d'' 2  |
-		r4 g' 8 g'  |
-		c'' 4 e''  |
-		b' 4 d''  |
+		e' 8 d' d' e'  |
+		d' 2  |
+		r4 g 8 g  |
+		c' 4 e'  |
+		b 4 d'  |
 %% 25
-		g' 2  |
+		g 2  |
 		R2  |
-		r4 e'' 8 d''  |
-		cs'' 4 cs'' 8 cs''  |
-		e'' 8 d'' d'' cs''  |
+		r4 e' 8 d'  |
+		cs' 4 cs' 8 cs'  |
+		e' 8 d' d' cs'  |
 %% 30
-		d'' 4 r  |
-		r4 d'' 8 c''  |
-		b' 4 b' 8 b'  |
-		d'' 8 c'' c'' b'  |
-		c'' 4 r  |
+		d' 4 r  |
+		r4 d' 8 c'  |
+		b 4 b 8 b  |
+		d' 8 c' c' b  |
+		c' 4 r  |
 %% 35
-		r4 e'' 8 d''  |
-		cs'' 4 cs'' 8 cs''  |
-		e'' 8 d'' d'' e''  |
-		d'' 2  |
-		r4 g' 8 g'  |
+		r4 e' 8 d'  |
+		cs' 4 cs' 8 cs'  |
+		e' 8 d' d' e'  |
+		d' 2  |
+		r4 g 8 g  |
 %% 40
-		c'' 4 e''  |
-		b' 4 d''  |
-		g' 2  |
+		c' 4 e'  |
+		b 4 d'  |
+		g 2  |
 		R2  |
-		r4 e'' 8. d'' 16  |
+		r4 e' 8. d' 16  |
 %% 45
-		cs'' 4 cs'' 8 cs''  |
-		e'' 8 d'' d'' cs''  |
-		d'' 4 r  |
-		r4 d'' 8. c'' 16  |
-		b' 4 b' 8 b'  |
+		cs' 4 cs' 8 cs'  |
+		e' 8 d' d' cs'  |
+		d' 4 r  |
+		r4 d' 8. c' 16  |
+		b 4 b 8 b  |
 %% 50
-		d'' 8 c'' c'' b'  |
-		c'' 4 r  |
-		r4 e'' 8. d'' 16  |
-		cs'' 4 cs'' 8 cs''  |
-		e'' 8 d'' d'' e''  |
+		d' 8 c' c' b  |
+		c' 4 r  |
+		r4 e' 8. d' 16  |
+		cs' 4 cs' 8 cs'  |
+		e' 8 d' d' e'  |
 %% 55
-		d'' 2  |
-		r4 g' 8 g'  |
-		c'' 4 e''  |
-		b' 2  |
-		d'' 2  |
+		d' 2  |
+		r4 g 8 g  |
+		c' 4 e'  |
+		b 2  |
+		d' 2  |
 %% 60
-		g' 2  |
+		g 2  |
 		R2*4  |
 %% 65
-		r4 f'' 8 g''  |
+		r4 f' 8 g'  |
 		\key f \major
-		a'' 4 a''  |
-		g'' 4 e'' 8 e''  |
-		d'' 4 d''  |
-		c'' 4 e'' 8 f''  |
+		a' 4 a'  |
+		g' 4 e' 8 e'  |
+		d' 4 d'  |
+		c' 4 e' 8 f'  |
 %% 70
-		g'' 4 g''  |
-		f'' 4 d'' 8 d''  |
-		c'' 4 c''  |
-		e'' 4 f'' 8 g''  |
-		a'' 4 a''  |
+		g' 4 g'  |
+		f' 4 d' 8 d'  |
+		c' 4 c'  |
+		e' 4 f' 8 g'  |
+		a' 4 a'  |
 %% 75
-		f'' 4 f'' 8 f''  |
-		f'' 4 f''  |
-		f'' 4 c'' 8 e''  |
-		f'' 4 a''  |
-		e'' 2  |
+		f' 4 f' 8 f'  |
+		f' 4 f'  |
+		f' 4 c' 8 e'  |
+		f' 4 a'  |
+		e' 2  |
 %% 80
-		g'' 2  |
-		c'' 2 ~  |
-		c'' 2  |
+		g' 2  |
+		c' 2 ~  |
+		c' 2  |
 		R2*2  |
 %% 85
 		\key c \major
-		r4 e'' 8 d''  |
-		cs'' 4 cs'' 8 cs''  |
-		e'' 8 d'' d'' cs''  |
-		d'' 4 r  |
-		r4 d'' 8 c''  |
+		r4 e' 8 d'  |
+		cs' 4 cs' 8 cs'  |
+		e' 8 d' d' cs'  |
+		d' 4 r  |
+		r4 d' 8 c'  |
 %% 90
-		b' 4 b' 8 b'  |
-		d'' 8 c'' c'' b'  |
-		c'' 4 r  |
-		r4 e'' 8 d''  |
-		cs'' 4 cs'' 8 cs''  |
+		b 4 b 8 b  |
+		d' 8 c' c' b  |
+		c' 4 r  |
+		r4 e' 8 d'  |
+		cs' 4 cs' 8 cs'  |
 %% 95
-		e'' 8 d'' d'' e''  |
-		d'' 2  |
-		r4 g' 8 g'  |
-		c'' 4 e''  |
-		b' 2  |
+		e' 8 d' d' e'  |
+		d' 2  |
+		r4 g 8 g  |
+		c' 4 e'  |
+		b 2  |
 %% 100
-		d'' 2  |
-		g' 2  |
+		d' 2  |
+		g 2  |
 		R2*4  |
-		r4 f'' 8 g''  |
+		r4 f' 8 g'  |
 		\key f \major
-		a'' 4 a''  |
-		g'' 4 e'' 8 e''  |
-		d'' 4 d''  |
+		a' 4 a'  |
+		g' 4 e' 8 e'  |
+		d' 4 d'  |
 %% 110
-		c'' 4 e'' 8 f''  |
-		g'' 4 g''  |
-		f'' 4 d'' 8 d''  |
-		c'' 4 c''  |
-		e'' 4 f'' 8 g''  |
+		c' 4 e' 8 f'  |
+		g' 4 g'  |
+		f' 4 d' 8 d'  |
+		c' 4 c'  |
+		e' 4 f' 8 g'  |
 %% 115
-		a'' 4 a''  |
-		f'' 4 f'' 8 f''  |
-		f'' 4 f''  |
-		f'' 4 c'' 8 e''  |
-		f'' 4 a''  |
+		a' 4 a'  |
+		f' 4 f' 8 f'  |
+		f' 4 f'  |
+		f' 4 c' 8 e'  |
+		f' 4 a'  |
 %% 120
-		e'' 2  |
-		g'' 2  |
-		c'' 2 ~  |
-		c'' 2  |
+		e' 2  |
+		g' 2  |
+		c' 2 ~  |
+		c' 2  |
 		R2*2  |
 		\key c \major
-		r4 e'' 8. d'' 16  |
-		cs'' 4 cs'' 8 cs''  |
-		e'' 8 d'' d'' cs''  |
-		d'' 4 r  |
+		r4 e' 8. d' 16  |
+		cs' 4 cs' 8 cs'  |
+		e' 8 d' d' cs'  |
+		d' 4 r  |
 %% 130
-		r4 d'' 8. c'' 16  |
-		b' 4 b' 8 b'  |
-		d'' 8 c'' c'' b'  |
-		c'' 4 r  |
-		r4 e'' 8. d'' 16  |
+		r4 d' 8. c' 16  |
+		b 4 b 8 b  |
+		d' 8 c' c' b  |
+		c' 4 r  |
+		r4 e' 8. d' 16  |
 %% 135
-		cs'' 4 cs'' 8 cs''  |
-		e'' 8 d'' d'' e''  |
-		d'' 2  |
-		r4 g' 8 g'  |
-		c'' 4 e''  |
+		cs' 4 cs' 8 cs'  |
+		e' 8 d' d' e'  |
+		d' 2  |
+		r4 g 8 g  |
+		c' 4 e'  |
 %% 140
-		b' 2  |
-		d'' 2  |
-		g' 2  |
+		b 2  |
+		d' 2  |
+		g 2  |
 		R2*3  |
 		\bar "|."
 	}
