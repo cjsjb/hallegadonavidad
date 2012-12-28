@@ -24,6 +24,7 @@ global = {
 globalTempo = {
     \tempo 4 = 74  \skip 2*17
 }
+\include "hallegadonavidad-guitarra.def"
 \score {
 %    \new StaffGroup
     <<
@@ -37,12 +38,12 @@ globalTempo = {
 		\include "hallegadonavidad-tenor.inc"
 	>>
 	\include "hallegadonavidad-violin.inc"
+	%\include "hallegadonavidad-guitarra.inc"
 
     >> % notes
 
 	\layout {
-		\context {
-			\RemoveEmptyStaffContext
-		}
+		\context { \RemoveEmptyStaffContext }
+		\context { \ChordNames \consists Instrument_name_engraver }
 	}
 } % score

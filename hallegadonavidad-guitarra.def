@@ -1,0 +1,127 @@
+#(define (parenthesis-ignatzek-chord-names in-pitches bass inversion context)
+  (markup #:line ("(" (ignatzek-chord-names in-pitches bass inversion context) ")")))
+
+hallegadoacordes = \chordmode {
+		% intro
+		s2
+		c2 d2:m/c e2:m/c d2:m/c
+		c2 d2:m/c e2:m/c d2:m/c
+
+		% estrofa 1
+		c2 a2:7 d2:m d2:m7
+		g2 g2:7 c2 c2
+		c2 a2:7 d2:m f2:m
+		r2 c2 g2 c4 f4 c2
+
+		% estrofa 2
+		c2 a2:7 d2:m d2:m7
+		g2 g2:7 c2 c2
+		c2 a2:7 d2:m f2:m
+		r2 c2 g2 c4 f4 c2
+
+		% estrofa 3
+		c2 a2:7 d2:m d2:m7
+		g2 g2:7 c2 c2
+		c2 a2:7 d2:m f2:m
+		r2 c2 g2 g2
+
+		% glue
+		c2 d2:m e2:m f2 g2 c2:7
+
+		% parte b
+		f2 c2 d2:m d2:m7
+		g2:m g2:m7 c2 c2:7
+		f2 f2:7 bf2 bf2:m
+		f2 c2 c2 f2
+		f2 g2:7 r2
+
+		% estrofa 1
+		c2 a2:7 d2:m d2:m7
+		g2 g2:7 c2 c2
+		c2 a2:7 d2:m f2:m
+		r2 c2 g2 g2
+
+		% glue
+		c2 d2:m e2:m f2 g2 c2:7
+
+		% parte b
+		f2 r2*14
+		f2 f2 g2:7 r2
+
+		% estrofa 2
+		c2 a2:7 d2:m d2:m7
+		g2 g2:7 c2 c2
+		c2 a2:7 d2:m f2:m
+		r2 c2 g2 c4 f4 c2
+	}
+
+hallegadoguitarraintro = {
+		R2  |
+		< d fs' > 8 a d' fs'  |
+		< d g' > 8 b\3 e'\2 g'  |
+		< d\4 a' > 8 cs'\3 fs'\2 a'  |
+%% 5
+		< d g' > 8 b\3 e'\2 g'  |
+		< fs' d > 8 a d' fs'  |
+		< d g' > 8 b\3 e'\2 g'  |
+		< d\4 a' > 8 cs'\3 fs'\2 a'  |
+		< d g' > 8 b\3 e'\2 g'  |
+}
+
+% igual, pero sin \4
+hallegadoguitarraintropart = {
+		R2  |
+		< d fs' > 8 a d' fs'  |
+		< d g' > 8 b\3 e'\2 g'  |
+		< d a' > 8 cs'\3 fs'\2 a'  |
+%% 5
+		< d g' > 8 b\3 e'\2 g'  |
+		< fs' d > 8 a d' fs'  |
+		< d g' > 8 b\3 e'\2 g'  |
+		< d a' > 8 cs'\3 fs'\2 a'  |
+		< d g' > 8 b\3 e'\2 g'  |
+}
+
+hallegadoguitarraestrofa = {
+%% 10
+		< fs' d > 8 a d' a  |
+		< b, fs' > 8 ds a b  |
+		< e, e' > 8 e g b  |
+		< e' d > 8 ~ e' g b  |
+		< a, e' > 8 e a cs'  |
+%% 15
+		< g, e' > 8 e g cs'  |
+		< fs, fs' > 8 a d' e'  |
+		< fs' d > 8 ~ fs' e' d'  |
+		< fs' d > 8 a d' a  |
+		< fs' b, > 8 ds a b  |
+%% 20
+		< e' e, > 8 e g b  |
+		< g, g' d' > 8 d\5 g\4 bf  |
+		< g, d g bf d' g' > 2  |
+		< fs' d d' > 8 a d' a  |
+		< a, e' cs' > 8 g < g' cs' > g  |
+%% 25
+		< d a d' fs' > 4 < g, g d' g' >  |
+		< d a d' fs' > 8 a d' a  |
+		< d fs' > 8 a d' a  |
+		< b, fs' > 8 ds a b  |
+		< e, e' > 8 e g b  |
+%% 30
+		< d e' > 8 ~ e' g b  |
+		< a, e' > 8 e a cs'  |
+		< e' g, > 8 e g cs'  |
+		< fs, fs' > 8 a d' e'  |
+		< d fs' > 8 ~ fs' e' d'  |
+%% 35
+		< fs' d > 8 a d' a  |
+		< fs' b, > 8 ds a b  |
+		< e, e' > 8 e g b  |
+		< g, g' d' > 8 d\5 g\4 bf  |
+		< d' bf g d g, g' > 2  |
+%% 40
+		< d fs' d' > 8 a d' a  |
+		< cs' e' a, > 8 g < g' cs' > g  |
+		< d' a d fs' > 4 < g, g d' g' >  |
+		< a d' fs' d > 2  |
+}
