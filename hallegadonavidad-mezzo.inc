@@ -59,7 +59,29 @@
 		c'' 4 e''  |
 		b' 4 d''  |
 		g' 2  |
-		R2*22  |
+		R2  |
+		r4 e'' 8. d'' 16  |
+%% 45
+		cs'' 4 cs'' 8 cs''  |
+		e'' 8 d'' d'' cs''  |
+		d'' 4 r  |
+		r4 d'' 8. c'' 16  |
+		b' 4 b' 8 b'  |
+%% 50
+		d'' 8 c'' c'' b'  |
+		c'' 4 r  |
+		r4 e'' 8. d'' 16  |
+		cs'' 4 cs'' 8 cs''  |
+		e'' 8 d'' d'' e''  |
+%% 55
+		d'' 2  |
+		r4 g' 8 g'  |
+		c'' 4 e''  |
+		b' 2  |
+		d'' 2  |
+%% 60
+		g' 2  |
+		R2*4  |
 %% 65
 		r4 f'' 8 g''  |
 		\key f \major
@@ -131,7 +153,27 @@
 		c'' 2  |
 		R2*2  |
 		\key c \major
-		R2*20
+		r4 e'' 8. d'' 16  |
+		cs'' 4 cs'' 8 cs''  |
+		e'' 8 d'' d'' cs''  |
+		d'' 4 r  |
+%% 130
+		r4 d'' 8. c'' 16  |
+		b' 4 b' 8 b'  |
+		d'' 8 c'' c'' b'  |
+		c'' 4 r  |
+		r4 e'' 8. d'' 16  |
+%% 135
+		cs'' 4 cs'' 8 cs''  |
+		e'' 8 d'' d'' e''  |
+		d'' 2  |
+		r4 g' 8 g'  |
+		c'' 4 e''  |
+%% 140
+		b' 2  |
+		d'' 2  |
+		g' 2  |
+		R2*3  |
 		\bar "|."
 	}
 
@@ -157,14 +199,14 @@
 		un e -- ter -- no res -- plan -- dor,
 		de fe -- li -- ci -- dad "y a" -- mor.
 
-%		% estrofa 3
-%		¡Na -- vi -- dad!, % Na -- vi -- dad,
-%		u -- na voz "de e" -- ter -- ni -- dad,
-%		¡Na -- vi -- dad!, % Na -- vi -- dad,
-%		u -- na voz de sal -- va -- ción,
-%		¡Na -- vi -- dad!, % Na -- vi -- dad,
-%		"la es" -- pe -- ran -- "za en" "la o" -- ra -- ción
-%		"y el" mi -- la -- gro del a -- mor.
+		% estrofa 3
+		¡Na -- vi -- dad!, % Na -- vi -- dad,
+		u -- na voz "de e" -- ter -- ni -- dad,
+		¡Na -- vi -- dad!, % Na -- vi -- dad,
+		u -- na voz de sal -- va -- ción,
+		¡Na -- vi -- dad!, % Na -- vi -- dad,
+		"la es" -- pe -- ran -- "za en" "la o" -- ra -- ción
+		"y el" mi -- la -- gro del a -- mor.
 
 		% parte b
 		Na -- vi -- dad, la paz de "la hu" -- ma -- ni -- dad,
