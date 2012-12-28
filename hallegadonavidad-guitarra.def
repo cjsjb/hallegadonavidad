@@ -52,7 +52,7 @@ hallegadoacordes = \chordmode {
 		c2 a2:7 d2:m d2:m7
 		g2 g2:7 c2 c2
 		c2 a2:7 d2:m f2:m
-		r2 c2 g2 c4 f4 c2
+		r2 c2 g2 g2 c2
 	}
 
 hallegadoguitarraintro = {
