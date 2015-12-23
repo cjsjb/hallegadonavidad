@@ -168,8 +168,12 @@
 %% 140
 		b 2  |
 		d' 2  |
-		g 2  |
-		R2*3
+		g 4 c' 8. c' 16  |
+		c' 2 ~  |
+		c' 2 ~  |
+%% 145
+		c' 2 ~  |
+		c' 2  |
 		\bar "|."
 	}
 
@@ -233,6 +237,9 @@
 		% ¡Na -- vi -- dad!, ¡Na -- vi -- dad!,
 		un e -- ter -- no res -- plan -- dor,
 		de fe -- li -- ci -- dad "y a" -- mor.
+
+		% finale
+		¡Na -- vi -- dad! __
 	}
 
 >>
