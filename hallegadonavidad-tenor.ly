@@ -4,8 +4,8 @@
 % point and click debugging is disabled
 #(ly:set-option 'point-and-click #f)
 \header {
-	composer = "Romeo Valdés"
-	copyright = "Copyright © 1972 Romeo Valdés"
+	composer = "Romeo Alfonso Valdés Villarreal"
+	copyright = "Copyright © 1972 Romeo Alfonso Valdés Villarreal"
 	title = "Ha llegado Navidad"
 	tagline = "Coro Juvenil San Juan Bosco"
 	instrument = "Tenor"
